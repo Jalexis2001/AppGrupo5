@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplicación Grupo #5</string>
+    <string name="Bienvenida">Bienvenidos a la app de información del Instituto Hondureño de seguridad social</string>
+    <string name="Ingresar">Ingresar</string>
+
+    <string name="Info">¿Qué brinda?</string>
+    <string name="Vision">Visón y Misión</string>
+    <string name="Regimenes">Regimenes</string>
+    <string name="Servicios">Servicios</string>
+
+    <string name="Titulo">¿Qué brinda?</string>
+    <string name="Cuerpo">Institución que brinda beneficios de seguridad social a la población de Honduras, en primer lugar en el entorno de la protección de las contingencias de enfermedad y maternidad, y luego en el ámbito de las pensiones de invalidez, vejez y muerte, a los trabajadores hondureños y sus familias. Fue fundado el 19 de mayo de 1959, mediante Decreto legislativo No.140., Creado por el Estado, con rango constitucional, para ser la institución de servicios públicos, de carácter obligatorio para todos los empleadores y trabajadores de Honduras, sean de Empresas Nacionales o Extranjeras.</string>
+
+
+</resources>
